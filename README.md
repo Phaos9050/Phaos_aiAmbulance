@@ -20,4 +20,4 @@
     You can edit everything you need in `config.lua`
 
 # Preview
-    https://streamable.com/wec43r
+    https://youtu.be/4HAX_goTSA8
