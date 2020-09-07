@@ -20,4 +20,4 @@
     You can edit everything you need in `config.lua`
 
 # Preview
-    https://youtu.be/Y_E3QRKHSvg
+    https://youtu.be/vn2rq2q1dZ4
